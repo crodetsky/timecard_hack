@@ -1,0 +1,17 @@
+url: https://xxx.harvestapp.com
+email: 
+password: 
+oncall: false
+min_hours: 60
+max_hours: 80
+oncall_min_hours: 70
+oncall_max_hours: 90
+
+incident_project_id: 
+incident_task_id: 
+
+automation_project_id: 
+automation_task_id: 
+
+incident_percent: 0.30
+oncall_incident_percent: 0.80

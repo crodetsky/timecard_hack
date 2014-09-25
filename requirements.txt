@@ -1,0 +1,4 @@
+Harvest-Time-Tracking-API-Client==1.0.1
+PyYAML==3.11
+requests==2.4.1
+wsgiref==0.1.2
